@@ -6,7 +6,7 @@ The main focus is on computing the taxi utilization, understanding the average t
 The code is in a Jupiter Notebook [Python / Spark]. 
 
 APACHE SPARK 
-For the given assignment, these benefits of using spark :
+For the work, these benefits of using spark :
 + Efficient processing of the large NYC taxi dataset.
 + Ability to easily enrich the dataset with additional geospatial data.
 + Fast computation of metrics like utilization, average time to find the next fare, and trip categorization based on boroughs.
